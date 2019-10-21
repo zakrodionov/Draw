@@ -1,3 +1,3 @@
 # Draw
 Тестируем рисования круга по градусам
-![](/drawcircle.jpg)
+<img src="/drawcircle.jpg" width="30%"></img>
